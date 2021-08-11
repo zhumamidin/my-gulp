@@ -1,0 +1,5 @@
+node_modules/
+dist/
+dist/index.html
+dist/css/main.min.css
+dist/js/main.js
